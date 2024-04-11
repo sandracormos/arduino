@@ -12,7 +12,7 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Schematics
 
-![Schematics](schema.png)
+![Schematics](schema.jpg)
 
 ## Components:
 
