@@ -17,14 +17,14 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Components:
 
-- Arduino UNO R3
+- [Arduino UNO R3](https://cleste.ro/arduino-uno-r3-atmega328p.html?utm_medium=GoogleAds&utm_campaign=&utm_source=&gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5h8BoWCxTFoD7rfsc4FCEY2QM4lOvA6tZfYJJPny8ZBPHdWP4KIWXAaAnq0EALw_wcB)
 - Breadboard
-- LED matrix module 8x8, red, 5V, MAX7219
+- [LED matrix module 8x8, red, 5V, MAX7219](https://ardushop.ro/ro/home/95-matrice-led-uri-8x8-circuit-de-control.html?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5gf-abzsM_b9-UJJWe8RIhjRaYSEG8HaV0NEMvU_kljGiR00r5nDgwaAjglEALw_wcB)
 - 3 resistors ( 1x100R, 1x1K, 1x10K) 
 - jumper wires
-- SW-520D Vibration Sensor Metal Ball Tilt Sensor
-- Remote control
-- Interfacing IR Sensor
+- [SW-520D Vibration Sensor Metal Ball Tilt Sensor](https://www.kuongshun-ks.com/uno/uno-accessories/sw-520d-vibration-sensor-metal-ball-tilt.html)
+- [Remote Control](https://ardushop.ro/ro/electronica/195-telecomanda-infrarosu.html?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5ihr3A5VfBGrEEafOfaMltyFCcjLyeDExG_S0CYRT3IVB46Z8PplowaAqSiEALw_wcB)
+- [Interfacing IR Sensor](https://ardushop.ro/ro/home/1043-receptor-infrarosu-vs1838b.html)
 
 ### 1. Hardware Setup:
 - Connect the components as per the provided schematics.
