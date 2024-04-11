@@ -6,9 +6,9 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Screenshots
 
-![Doorbell sample demo](ar.jpg)
+![sample demo][pacman-gif]
 
-[(Watch the demo on YouTube)][demo-yt]
+[(Watch the demo on YouTube)][upsideDown-gif]
 
 ## Schematics
 
@@ -44,4 +44,5 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Credits:
 This project was developed by [Your Name].
+
 
