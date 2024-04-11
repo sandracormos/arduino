@@ -6,9 +6,9 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Screenshots
 
-![sample demo][pacman-gif]
+![sample demo](pacman.gif)
 
-[(Watch the demo on YouTube)][upsideDown-gif]
+[(Watch the demo on YouTube)](upsideDown.gif)
 
 ## Schematics
 
