@@ -18,7 +18,7 @@ This project aims to create an interactive LED board that displays  emojis based
 ## Components:
 
 - Arduino UNO R3
-- Breadboard and jumper wires 
+- Breadboard
 - LED matrix module 8x8, red, 5V, MAX7219
 - 3 resistors ( 1x100R, 1x1K, 1x10K) 
 - jumper wires
