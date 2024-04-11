@@ -6,7 +6,7 @@ This project aims to create an interactive LED board that displays  emojis based
 
 ## Screenshots
 
-![Doorbell sample demo][ar.jpg]
+![Doorbell sample demo](ar.jpg)
 
 [(Watch the demo on YouTube)][demo-yt]
 
